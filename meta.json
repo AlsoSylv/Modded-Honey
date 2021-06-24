@@ -1,14 +1,9 @@
 {
-    "game_versions": ["1.17", "1.16.5"],
+    "game_versions": ["1.17"],
     "editions": [
         {
-            "name": "Iris-Sodium",
-            "display_name": "Iris & Sodium",
-            "compatible_versions": ["1.16.5"]
-        },
-        {
-            "name": "Iris-Standalone",
-            "display_name": "Iris Standalone",
+            "name": "Modded Honey",
+            "display_name": "HoneySMP",
             "compatible_versions": ["1.17"]
         },
     ]

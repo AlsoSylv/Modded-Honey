@@ -2,7 +2,7 @@
     "game_versions": ["1.17"],
     "editions": [
         {
-            "name": "Modded Honey",
+            "name": "HoneySMP",
             "display_name": "HoneySMP",
             "compatible_versions": ["1.17"]
         },
